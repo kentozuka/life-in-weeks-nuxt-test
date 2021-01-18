@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Flife-in-weeks-nuxt-test\u002F_nuxt\u002Fstatic\u002F1610971100",layout:"default",error:null,state:{birthday:a,username:a,counter:0},serverRendered:true,routePath:"\u002F",config:{content:{dbHash:"153a0ca7"}}}}(""));
